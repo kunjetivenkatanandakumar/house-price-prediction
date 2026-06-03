@@ -1,5 +1,5 @@
-#House Price Prediction using Machine Learning
-Project Overview
+# House Price Prediction using Machine Learning
+## Project Overview
 
 This project predicts residential house prices using machine learning techniques based on various property features such as area, location, quality, construction year, garage size, basement area, and many other housing attributes.
 
@@ -7,11 +7,11 @@ The dataset is from the popular Kaggle House Prices: Advanced Regression Techniq
 
 Dataset description includes over 79 explanatory variables describing different aspects of houses such as zoning, neighborhood, construction quality, basement condition, garage information, and sale conditions.
 
-Problem Statement
+## Problem Statement
 
 The goal is to build a machine learning model that accurately predicts the SalePrice of a house based on its features.
 
-Business Objective
+## Business Objective
 Help real estate companies estimate house prices.
 Assist buyers and sellers in determining fair market value.
 Support property investment decision-making.
